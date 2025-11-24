@@ -1,7 +1,7 @@
 <h1 align="center">Fábio Figueiredo</h1>
 <h3 align="center">software Developer and Data Science & AI student</h3>
 
----
+
 
 - 👨‍💻 I'm a **software Developer and Data Science & AI student** , Driven by insights that create impact and building intelligent systems.
 
