@@ -7,7 +7,7 @@
 
 - 🌐 I build full-stack solutions using **Python**, **FastAPI**, **Node.js**, **Next.js**, **React**, **TypeScript**, and modern backend architectures, creating end-to-end solutions from APIs to dynamic interfaces.
 
-- 🧠 I integrate systems with artificial intelligence, building AI-powered applications, intelligent workflows, and smart APIs using **Pydantic**, **LangChain**, **Agno**, **pgvector** and **PostgreSQL**, along with infrastructure tools such as **Docker**, **Kubernetes** and **Terraform**, ensuring scalability, efficient token usage, and cost-optimized deployment.
+- 🧠 I integrate systems with artificial intelligence, building AI-powered applications, intelligent workflows, and smart APIs using **Pydantic**, **Agno**, **pgvector** and **PostgreSQL**, along with infrastructure tools such as **Docker**, **Kubernetes** and **Terraform**, ensuring scalability, efficient token usage, and cost-optimized deployment.
   
 - 🖥️ I design data-oriented systems that go beyond producing isolated results. By enabling structured data flow, persistent analysis, and reliable transmission pipelines, these systems transform insights into long-term assets that can support advanced analytical layers including predictive, prescriptive, and AI-driven decision models.
 
