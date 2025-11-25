@@ -1,9 +1,9 @@
 <h1 align="center">Fábio Figueiredo</h1>
-<h3 align="center">software Developer and Data Science & AI student</h3>
+<h3 align="center">Full Stack Developer and Data Science & AI student</h3>
 
 
 
-- 👨‍💻 I'm a **software Developer and Data Science & AI student** , Driven by insights that create impact and building intelligent systems.
+- 👨‍💻 I'm a **Full Stack Developer and Data Science & AI student** , Driven by insights that create impact and building intelligent systems.
 
 - 🌐 I build full-stack solutions using **Python**, **FastAPI**, **Node.js**, **Next.js**, **React**, **TypeScript**, and modern backend architectures, creating end-to-end solutions from APIs to dynamic interfaces.
 
