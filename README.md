@@ -1,5 +1,5 @@
 <h1 align="center">Fábio Figueiredo</h1>
-<h3 align="center">Full Stack Developer and Data Science & AI student</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 
 
