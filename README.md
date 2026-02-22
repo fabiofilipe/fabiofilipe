@@ -13,8 +13,6 @@
 
 -  📂 My latest projects:
     - **[SindicoAI](https://github.com/fabiofilipe/SindicoAI)** — 🏢 SindicoAI is a modern and scalable solution for condominium management, combining automation, artificial intelligence, and a premium user experience. Built with a multi-tenant architecture, it allows multiple condominiums to operate securely and independently within a single infrastructure.
-    - **[Private project](Developed for a company in which the current)** — 🔍 I’m developing a full monitoring and analytics system for natural gas usage across thousands of client companies. The platform centralizes consumption data, automates data availability, and eliminates manual workflows, enabling  insights for operational planning. By providing structured consumption intelligence, the system supports partner companies in optimizing gas purchasing, distribution scheduling, and decision-making processes, while significantly reducing the time required to deliver critical usage information.
-    - **[lojinhaFabao](https://github.com/LinharesJP/lojinhaFabao)** — 🏪 I contributed to the development of LojinhaFabao, a structured CRUD system created for a virtual clothing store as part of the Database subject at Federal University of Paraíba (UFPB). My collaboration included implementing features for managing products and customers, improving database interactions, and ensuring reliable and well-organized data operations. The project demonstrates practical experience in relational modeling, SQL, and integrating applications with relational databases.
     
 - 📫 **Get in touch:** fabiofmf21@gmail.com
 
