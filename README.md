@@ -3,7 +3,7 @@
 
 
 
-- 👨‍💻 I'm a **Full Stack Developer and Data Science & AI student** , Driven by insights that create impact and building intelligent systems.
+- 👨‍💻 I'm a **AI Developer & Full Stack Engineer** , Driven by insights that create impact and building intelligent systems.
 
 - 🌐 I build full-stack solutions using **Python**, **FastAPI**, **Node.js**, **Next.js**, **React**, **TypeScript**, and modern backend architectures, creating end-to-end solutions from APIs to dynamic interfaces.
 
