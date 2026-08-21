@@ -1,9 +1,9 @@
 <h1 align="center">Fábio Figueiredo</h1>
-<h3 align="center">AI Developer & Full Stack Engineer</h3>
+<h3 align="center">AI Engineer</h3>
 
 
 
-- 👨‍💻 I'm a **AI Developer & Full Stack Engineer** , Driven by insights that create impact and building intelligent systems.
+- 👨‍💻 I'm a **AI Engineer** , Driven by insights that create impact and building intelligent systems.
 
 - 🌐 I build full-stack solutions using **Python**, **FastAPI**, **Node.js**, **Next.js**, **React**, **TypeScript**, and modern backend architectures, creating end-to-end solutions from APIs to dynamic interfaces.
 
